@@ -1,0 +1,145 @@
+*{
+    border: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: white;
+}
+header{
+    background-color: white;
+}
+.nav-item2 a{
+    color: black;
+}
+header img{
+    margin-left: 70px;
+    padding: 5px;
+
+}
+.nav-item{
+    margin-left: 10px;
+    color: rgb(182, 182, 182);
+}
+.navbar-nav{
+    margin-left: 200px;
+}
+h1{
+    display: block;
+    font-size: 4rem;
+    font-weight: 1000;
+    margin-left: 80px;
+    padding-top: 20px;
+    line-height: 1.2;
+    color:rgb(91, 91, 218) ;
+}
+p{
+    margin-top: 20px;
+    margin-left: 80px;
+    font-size: 1.2rem;
+   
+    font-weight: 100;
+}
+.ipt {
+    display: inline;
+}
+input{
+    margin-left: 80px;
+    width: 400px;
+    height: 36px;
+}
+
+.ipt  button{
+    color: white;
+    background-color:rgb(91, 91, 218);
+    height: 36px;
+    width: 100px;
+    border-radius: 100px;
+}
+h6{
+    padding: 20px;
+    margin-left: 60px;
+    color: rgb(91, 91, 218);
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: bolder;
+
+}
+.button-ontaner{
+    width: 700px;
+display: flex;
+flex-wrap: wrap;
+
+margin-left: 70px;
+
+
+}
+.button-ontaner button{
+    
+    background-color: white;
+    color: rgb(91, 91, 218);
+    margin: 5px;
+    height: 36px;
+    width: 95px;
+    border-radius: 100px;
+    border: 1pxrgb(53, 51, 51);
+}
+
+.h h1{
+    font-size: 3rem;
+}
+.h h2{
+    margin-left: 60px;
+    font-size: 3rem;
+margin-top: 30px;
+}
+.h{
+    margin-top: 30px;
+   
+    display: flex;
+}
+.ard{
+    margin-left: 70px;
+    gap: 20px;
+    display: flex;
+    width: 80%;
+    align-items: center;
+}
+.ard .card{
+    display: flex;
+    justify-content: center ;
+}
+.card .card-body{
+    height: 300px;
+    justify-content: center ;
+
+}
+.ard .card-body p{
+    font-size: 1rem;
+}
+.heading h2{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 900;
+    color: rgb(91, 91, 218);
+}
+p{
+    text-align: center;
+    font-size: 1.5rem;
+    
+}
+.im1 img{
+width: 100%;
+}
+.im img{
+    margin-left: 40%;
+    padding-bottom: 20px;
+}
+.heading1 h2{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: rgb(91, 91, 218);
+}
